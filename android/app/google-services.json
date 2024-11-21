@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834651571714",
+    "project_id": "hostelboys-5b756",
+    "storage_bucket": "hostelboys-5b756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834651571714:android:b0a3815d85b81bfa02091b",
+        "android_client_info": {
+          "package_name": "com.example.application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFvJU1D8mpGSL9r4Ed4pKdZimHOHrdC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
