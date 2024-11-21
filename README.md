@@ -1,16 +1,12 @@
-# application_1
+HostelMate
+A Flutter-based mobile application designed to simplify hostel life for students.
 
-A new Flutter project.
+Features:
 
-## Getting Started
+Issue Reporting: Easily report problems related to electricity, water, or furniture.
+Event Management: Stay updated on hostel events and activities.
+Student Profiles: Manage and view student profiles, including contact and enrollment details.
+Form Validation: Robust input validation for error-free data handling.
+This app aims to improve communication and management within hostel premises, ensuring a seamless experience for students and administrators alike.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack: Flutter, Dart.
